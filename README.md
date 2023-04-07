@@ -9,12 +9,12 @@
 <br>
 <b> Judul Studi Kasus : </b>
 
-Alarm Deteksi Gerak dengan Sensor PIR dengan Bot Telegram
+Alarm Deteksi Gerak dengan Sensor PIR menggunakan platform Bot Telegram
 
 <br>
 <b> Deskripsi : </b>
 
-Rangkaian ini ialah dapat menghasilkan bunyi alarm karena dari adanya deteksi pergerakkan makhluk hidup di sekitar dengan menggunakan sensor PIR dan di monitoring oleh salah satu platform IOT yaitu dengan Bot Telegram.
+Rangkaian ini ialah dapat menghasilkan bunyi alarm dari adanya deteksi pergerakkan makhluk hidup di sekitar dengan menggunakan sensor PIR dan di monitoring oleh salah satu platform IOT yaitu dengan Bot Telegram.
 
 <br>
 <b> Pembagian Tugas : </b>
