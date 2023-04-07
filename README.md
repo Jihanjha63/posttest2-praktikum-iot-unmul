@@ -43,8 +43,8 @@ Jihan Hafizah Ariyani :
 
 <b> Board Schematic : </b>
 
-Board Schematic :
 ![WhatsApp Image 2023-04-06 at 18 27 38](https://user-images.githubusercontent.com/102265910/230581937-51360ce5-e053-410b-8e2f-e8ca6d55138e.jpg)
+
 
 
 link video : https://youtu.be/o_KPUT6ULrs
